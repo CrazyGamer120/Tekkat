@@ -2,4 +2,3 @@
 * text=auto
 git lfs install
 git lfs track "Tekkkat.zip"
-git lfs add .gitattributes
